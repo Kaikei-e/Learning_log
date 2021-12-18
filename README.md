@@ -4,4 +4,6 @@ This is a record of my study. Inspired by "Self-study Encyclopedia" by Dokushoza
 
 ## 目次
 
-### Rust
+### Programming languages
+- [Rust](./Rust)
+
