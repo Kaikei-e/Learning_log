@@ -1,4 +1,4 @@
 # index
 
 - [logs](./logs.md)
-- [begginer](./Rust_begginer.md)
+- [begginner](./Rust_begginner.md)
