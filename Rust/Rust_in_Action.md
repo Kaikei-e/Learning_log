@@ -24,3 +24,4 @@
 ### Reference
 
 - "Rust in Action" by Tim McNamara
+- 「詳解Rustプログラミング」 監修・訳 吉川邦夫　翔泳社　2021年11月
