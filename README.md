@@ -6,4 +6,5 @@ This is a record of my study. Inspired by "Self-study Encyclopedia" by Dokushoza
 
 ### Programming languages
 - [Rust](./Rust)
+- [Go](./Go)
 
