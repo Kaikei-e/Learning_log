@@ -1,4 +1,4 @@
-# Summary of understanding about Rust : Rustにについてのまとめ
+# Summary of understanding about Rust : Rustの勉強についてのまとめ
 
 ## Rustとは
 
