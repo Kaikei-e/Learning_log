@@ -47,6 +47,7 @@ Rustコンパイラは、プログラムのサイズとスピードの両方を�
 - ハイジェニックマクロ(hygenic macro)
 - 移動の意味(move semantics)
 - 代数的データ型(algebric data types)
+- デリファレンス（参照の目的、アドレスの目的が少しわかった。）
 
 
 <br>
