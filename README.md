@@ -1,4 +1,4 @@
-# Learning_log 勉強記録
+# Learning log 勉強記録
 This is a record of my study. Inspired by "Self-study Encyclopedia" by Dokushozaru aka Reading Monkey.
 読書猿著の「独学大全」の項目であるラーニングログをもとにした、勉強記録。記録を振り返り、継続する意欲を保つため。
 
