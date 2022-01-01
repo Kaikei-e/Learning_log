@@ -9,6 +9,10 @@ This is a record of my study. Inspired by "Self-study Encyclopedia" by Dokushoza
 
 - [Life](./Life)
 
+### Basic
+
+- [Web](./Basic/Web)
+
 ### Programming languages
 - [Rust](./Rust)
 - [Go](./Go)
