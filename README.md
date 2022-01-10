@@ -9,6 +9,10 @@ This is a record of my study. Inspired by "Self-study Encyclopedia" by Dokushoza
 
 - [Life](./Life)
 
+### Languages
+
+- [Languages](./Languages)
+
 ### Basic
 
 - [Web](./Basic/Web)
