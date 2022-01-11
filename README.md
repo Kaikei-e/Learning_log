@@ -11,7 +11,8 @@ This is a record of my study. Inspired by "Self-study Encyclopedia" by Dokushoza
 
 ### Languages
 
-- [Languages](./Languages)
+- [English](./Languages/English)
+- [Russian](./Languages/Russian)
 
 ### Basic
 
