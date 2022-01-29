@@ -36,5 +36,6 @@
   - The Book　をchapter 2まで読んだ
   - The Book　をchapter 3-1まで読んだ
   - The Book　をchapter 3-4まで読んだ
+  - The Book　をchapter 3-5まで読んだ。第３章を読了
 
 
