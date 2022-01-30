@@ -37,5 +37,10 @@
   - The Book　をchapter 3-1まで読んだ
   - The Book　をchapter 3-4まで読んだ
   - The Book　をchapter 3-5まで読んだ。第３章を読了
+- 2022年1月30日
+  - Rustのzero2prodをp３７まで進めた
+
+
+
 
 
