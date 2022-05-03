@@ -3,5 +3,6 @@
 - 「Elixir　実践ガイド」をp72まで読み進めた。　2022/05/03
 - 「Elixir　実践ガイド」をp162まで読み進めた。　2022/05/03
 - 「Elixir　実践ガイド」をp186まで読み進めた。　2022/05/03
+- 「Elixir　実践ガイド」をp235まで読み進めた。　2022/05/03
 
 [Reference](https://www.manning.com/books/elixir-in-action-second-edition)
