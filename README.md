@@ -19,8 +19,8 @@ This is a record of my study. Inspired by "Self-study Encyclopedia" by Dokushoza
 - [Web](./Basic/Web)
 
 ### Programming languages
-- [Rust](./Rust)
-- [Go](./Go)
+- [Rust](./Programming_languages/Rust)
+- [Go](./Programming_languages/Go)
 
 ## 参考文献
 - 「独学大全」 読書猿 著　ダイヤモンド社　2020年
