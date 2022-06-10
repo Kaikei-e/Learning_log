@@ -15,7 +15,7 @@ This is a record of my study. Inspired by "Self-study Encyclopedia" by Dokushoza
 - [Russian](./Languages/Russian)
 
 ### Basic
-- [Basis](./Basis)
+- [Software Architecture](./Basis/software_architecture)
 - [Web](./Basis/Web)
 
 ### Programming languages
