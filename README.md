@@ -15,8 +15,8 @@ This is a record of my study. Inspired by "Self-study Encyclopedia" by Dokushoza
 - [Russian](./Languages/Russian)
 
 ### Basic
-
-- [Web](./Basic/Web)
+- [Basis](./Basis)
+- [Web](./Basis/Web)
 
 ### Programming languages
 - [Rust](./Programming_languages/Rust)
