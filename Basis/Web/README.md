@@ -13,6 +13,8 @@
 - 「達人が教える　Webパフォーマンスチューニング」をp145まで読んだ。　2022/09/04
 - 「達人が教える　Webパフォーマンスチューニング」を6章まで読んだ。　2022/09/11
 - 「[gRPCに関する連載](https://dev.to/techschoolguru/introduction-to-grpc-why-what-how-4194)」を2章まで読んだ。　2022/09/12
+- 「[gRPCに関する連載](https://dev.to/techschoolguru/introduction-to-grpc-why-what-how-4194)」を5章まで読んだ。　2022/09/13
+- Svelteのチュートリアルを読み終えた。　2022/09/14
 
 
 
@@ -20,4 +22,3 @@
 
 - 「イラスト図解式　この一冊で全部わかるWEB技術の基本」
 - 「Web配信の技術」(https://gihyo.jp/book/2021/978-4-297-11925-6)
-
