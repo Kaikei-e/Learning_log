@@ -15,6 +15,7 @@
 - 「[gRPCに関する連載](https://dev.to/techschoolguru/introduction-to-grpc-why-what-how-4194)」を2章まで読んだ。　2022/09/12
 - 「[gRPCに関する連載](https://dev.to/techschoolguru/introduction-to-grpc-why-what-how-4194)」を5章まで読んだ。　2022/09/13
 - Svelteのチュートリアルを読み終えた。　2022/09/14
+- 「達人が教える　Webパフォーマンスチューニング」を7, 8章まで読んだ。　2022/09/18
 
 
 
