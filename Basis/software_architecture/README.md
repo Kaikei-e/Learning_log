@@ -42,5 +42,7 @@
 「Microservices: Up and running」Ronnie Mitra, Irakli Nadareishvili の2章まで読んだ。　2022/09/19
 「Microservices: Up and running」Ronnie Mitra, Irakli Nadareishvili の3章まで読んだ。　2022/09/19
 - Software Architecture Fundamentals Video Course O'ReillyのSection１をみた。　2022/09/30
+- 上記コースのUnderstanding the Expectations of an Architectセクションを完了　2022/10/01
+
 
 
