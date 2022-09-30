@@ -41,6 +41,6 @@
 「データ指向アプリケーションデザイン」　Martin Kleppmann　著、斉藤 太郎　監訳、玉川 竜司　訳 オライリー　を第5章まで読んだ。　2022/06/17  
 「Microservices: Up and running」Ronnie Mitra, Irakli Nadareishvili の2章まで読んだ。　2022/09/19
 「Microservices: Up and running」Ronnie Mitra, Irakli Nadareishvili の3章まで読んだ。　2022/09/19
-
+- Software Architecture Fundamentals Video Course O'ReillyのSection１をみた。　2022/09/30
 
 
