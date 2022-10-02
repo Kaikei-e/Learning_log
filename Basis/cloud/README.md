@@ -4,5 +4,6 @@
 - GCP用CourseraのProfessional Architectコースのセクション１をクイズまで完了した。　2022/09/30
 - GCP用CourseraのProfessional Architectコース VMs and VPC のセクション（Week 4）まで完了した。　2022/10/02
 - Google Cloud Certified Professional Cloud Architect Study Guide, 2nd Edition　を8％まで読んだ。　2022/10/02
+- Google Cloud Certified Professional Cloud Architect Study Guide, 2nd Edition　をChapter 1まで読んだ。　2022/10/03
 
 
