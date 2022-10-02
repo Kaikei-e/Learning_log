@@ -46,6 +46,7 @@
 - 上記コースの”Thinking Like an Architect”　セクションを完了　2022/10/01
 - 「データ指向アプリケーションデザイン」　Martin Kleppmann　著、斉藤 太郎　監訳、玉川 竜司　訳 オライリー　の1章を読んだ。　2022/10/01
 - 上記コースの”Identifying Architecture Characteristics”　セクションを完了　2022/10/01
+- Software Architecture Fundamentals Video Course O'ReillyのAnalyzing Architecture Tradeoffsを見た。　2022/10/02
 
 
 
