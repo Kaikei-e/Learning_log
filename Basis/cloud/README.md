@@ -7,6 +7,7 @@
 - Google Cloud Certified Professional Cloud Architect Study Guide, 2nd Edition　をChapter 1まで読んだ。　2022/10/03
 - GCP用CourseraのProfessional Architectコース VMs and VPC のセクション（Week 5）の動画まで完了した。　2022/10/08
 - 「Google Cooudのしくみと技術がしっかりわかる教科書」株式会社grasys　を40pまで読んだ。　2022/10/10
+- 「Google Cooudのしくみと技術がしっかりわかる教科書」株式会社grasys　を76pまで読んだ。　2022/10/10
 
 
 
