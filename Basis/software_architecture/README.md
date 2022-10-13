@@ -48,6 +48,8 @@
 - 上記コースの”Identifying Architecture Characteristics”　セクションを完了　2022/10/01
 - "Software Architecture Fundamentals Video Course" O'ReillyのAnalyzing Architecture Tradeoffsを見た。　2022/10/02
 - "Software Architecture Fundamentals Video Course" O'ReillyのUnderstanding Layered Architectureを見た。　2022/10/02
+- 「データ指向アプリケーションデザイン」　Martin Kleppmann　著、斉藤 太郎　監訳、玉川 竜司　訳 オライリー　をp51まで読んだ。　2022/10/01
+
 
 
 
