@@ -1,0 +1,1 @@
+- Kotlin Design Patterns and Best Practices - Second EditionのChaper1 Section2まで読んだ。　2022/10/18
