@@ -21,6 +21,7 @@ This is a record of my study. Inspired by "Self-study Encyclopedia" by Dokushoza
 ### Programming languages
 - [Rust](./Programming_languages/Rust)
 - [Go](./Programming_languages/Go)
+- [Kotlin](./Programming_languages/Kotlin/README.md)
 
 ## 参考文献
 - 「独学大全」 読書猿 著　ダイヤモンド社　2020年
