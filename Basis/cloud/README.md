@@ -8,6 +8,8 @@
 - GCP用CourseraのProfessional Architectコース VMs and VPC のセクション（Week 5）の動画まで完了した。　2022/10/08
 - 「Google Cooudのしくみと技術がしっかりわかる教科書」株式会社grasys　を40pまで読んだ。　2022/10/10
 - 「Google Cooudのしくみと技術がしっかりわかる教科書」株式会社grasys　を76pまで読んだ。　2022/10/10
+- 「AWSの基本・仕組み・重要単語が全部わかる教科書」　川畑光平、菊池貴彰、真中俊輝　をp131まで読んだ。　2022/10/27
+
 
 
 
