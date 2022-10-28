@@ -50,6 +50,8 @@
 - "Software Architecture Fundamentals Video Course" O'ReillyのUnderstanding Layered Architectureを見た。　2022/10/02
 - 「データ指向アプリケーションデザイン」　Martin Kleppmann　著、斉藤 太郎　監訳、玉川 竜司　訳 オライリー　をp51まで読んだ。　2022/10/01
 - 「ソフトウェア・アーキテクチャ ハードパーツ」を8pまで読んだ。　2022/10/27
+- 「ソフトウェア・アーキテクチャ ハードパーツ」を22pまで読んだ。　2022/10/28
+
 
 
 
