@@ -3,3 +3,4 @@
 - 「Googleのソフトウェアエンジニアリング」　オライリー　をp85まで読んだ。　  2022/05/17
 - 「エクストリーム・プログラミング（Extreme Programming Explained）」を11pまで読んだ。　2022/11/11
 - 「エクストリーム・プログラミング（Extreme Programming Explained）」を21pまで読んだ。　2022/11/11
+- 「エクストリーム・プログラミング（Extreme Programming Explained）」を30pまで読んだ。　2022/11/12
