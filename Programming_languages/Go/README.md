@@ -14,6 +14,8 @@
 - 「Go言語による分散サービス」を41pまで読んだ。　オライリー　Travis Jeffery著　柴田芳樹 訳　2022/09/18
 - 「Efficient Go」のチャプター１、「Readability now versus past」の項前まで読んだ。　2022/11/20
 - 「Efficient Go」のチャプター１まで読んだ。　2022/11/23
+- 「Efficient Go」のチャプター２、「Strong Ecosystem」の前まで読んだ。　2022/11/27
+
 
 ### 書籍
 
