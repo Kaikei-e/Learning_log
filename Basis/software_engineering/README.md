@@ -11,4 +11,5 @@
 - 「エクストリーム・プログラミング（Extreme Programming Explained）」を91pまで読んだ。　2022/11/16
 - 「エクストリーム・プログラミング（Extreme Programming Explained）」を98pまで読んだ。　2022/11/21
 - 「エクストリーム・プログラミング（Extreme Programming Explained）」を103pまで読んだ。　2022/11/25
+- 「エクストリーム・プログラミング（Extreme Programming Explained）」を133pまで読んだ。　2022/11/27
 
