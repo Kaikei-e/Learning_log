@@ -17,6 +17,7 @@
 - 「Efficient Go」のチャプター2、「Strong Ecosystem」の前まで読んだ。　2022/11/27
 - 「Efficient Go」のチャプター2まで読んだ。　2022/12/03
 - 「Efficient Go」のチャプター3の「Resource-Aware Efficiency Requirements」の前まで読んだ。　2022/12/07
+- 「Efficient Go」のチャプター3まで読んだ。　2022/12/08
 
 
 ### 書籍
