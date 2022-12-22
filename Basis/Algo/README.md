@@ -8,6 +8,7 @@
 - LeetCodeのArray問題、「Find Numbers with Even Number of Digits」を解いた。 2022/1/2
 - LeetCodeのArray問題、「Squares of a Sorted Array」を解いた。 2022/1/2
 - LeetCOde Array 「Basic array operations」の項を読んだ。 2022/1/3
+- 「みんなのデータ構造」を8pまで読んだ。 2022/12/22
 
 ### 本やサイト
 
