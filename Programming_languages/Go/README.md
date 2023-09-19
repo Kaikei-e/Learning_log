@@ -19,6 +19,7 @@
 - 「Efficient Go」のチャプター3の「Resource-Aware Efficiency Requirements」の前まで読んだ。　2022/12/07
 - 「Efficient Go」のチャプター3まで読んだ。　2022/12/08
 - 「Go言語　100 tips」 を25pまで読み直した。　2023/09/18
+- 「Go言語　100 tips」 を30pまで読んだ。　2023/09/20
 
 ### 書籍
 
